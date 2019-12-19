@@ -1,0 +1,60 @@
+{
+    "name": "SilverRail Tech",
+    "description": "Charts, maps & planning solutions for aviation. View services to meet operational needs & increase efficiency.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/826-silverrail-tech.jpg",
+    "tags": [
+        "airlines",
+        "guide",
+        "have api",
+        "planning",
+        "trip planning",
+        "trips"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/silverrail-tech\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SilverRail Tech",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/826-silverrail-tech.jpg",
+            "humanURL": "http:\/\/ww1.jeppesen.com\/main\/corporate\/land\/journey-planning\/index.jsp",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/silverrail-tech-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/silverrailtech.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/silverrailtech.com\/blog\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/jeppesen"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/silverrailtech"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Jeppesen"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/ww1.jeppesen.com\/main\/corporate\/land\/journey-planning\/index.jsp"
+        }
+    ]
+}
